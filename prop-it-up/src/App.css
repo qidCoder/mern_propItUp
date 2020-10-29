@@ -1,0 +1,6 @@
+.App {
+  /* margin: 0 auto;why doesn't this work to center the div?? */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
